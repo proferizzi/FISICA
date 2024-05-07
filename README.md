@@ -16,3 +16,6 @@ https://m.youtube.com/watch?v=xhOL9dhMLig&pp=ygUeZGlkYXR0aWNhbWVudGUgbW90byBwYXJ
 https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html
 
 
+MOTO ARMONICO
+
+https://phet.colorado.edu/it/simulations/masses-and-springs
