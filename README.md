@@ -1,5 +1,10 @@
 # FISICA
 
+PRIME
+EQUILIBRIO 
+
+https://phet.colorado.edu/it/simulations/balancing-act
+
 SECONDE
 
 MOTO PARABOLICO
